@@ -5,7 +5,9 @@ c = 6
 
 print(a+b+c)
 
+print(a*b*c)
 
+print(a/b/c)
 
 
 
